@@ -1,4 +1,12 @@
-// src: https://www.youtube.com/watch?v=1DMolJ2FrNY&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84&index=4
+/* 
+
+TASK:
+import and convert raw text string (data.txt) into structured data object
+
+src: https://www.youtube.com/watch?v=1DMolJ2FrNY&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84&index=4
+
+*/
+
 
 // import fs from 'fs';
 const fs = require('fs'); // [^2]
